@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 31
-    namespace 'com.flutter.moum.screenshot_callback'
+    namespace 'com.example.bluetooth_print'
 
     defaultConfig {
         minSdkVersion 21
